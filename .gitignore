@@ -4,5 +4,6 @@
 /*cache.json
 /options.txt
 /.curseclient
+/.fabric
 *.log
 !.gitkeep
