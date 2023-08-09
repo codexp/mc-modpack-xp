@@ -1,6 +1,7 @@
 /logs/*
 /saves/*
 /journeymap/data/*
+/config/worldedit/.archive-unpack/
 /*cache.json
 /options.txt
 /.curseclient
