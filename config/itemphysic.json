@@ -2,6 +2,7 @@
   "general": {
     "customThrow": true,
     "fallSounds": true,
+    "disableCactusDamage": true,
     "swimmingItems": {
       "entries": [
         "{id:\"blocktag\",tag:\"minecraft:mineable/axe\"}",
